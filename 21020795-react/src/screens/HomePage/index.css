@@ -1,0 +1,33 @@
+.photo01 {
+  position: absolute;
+  width: 1002px;
+  height: 860px;
+  left: -190px;
+  top: 200px;
+
+  background: #ffffff;
+}
+.photo02 {
+  position: absolute;
+  width: 590px;
+  height: 452px;
+  left: 1100px;
+  top: 240px;
+}
+
+.minu {
+  z-index: -1;
+}
+#block {
+  position: absolute;
+  left: 12%;
+  right: 0;
+  top: 260px;
+}
+
+.buttons {
+  position: absolute;
+  left: 13%;
+  right: 0;
+  top: 590px;
+}
